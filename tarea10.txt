@@ -1,3 +1,5 @@
 Hola esta es mi tarea local en el repositorio local
 bla bla bla bla 
 ahorita van las del repositorioo arriba jajajajajaj :D 
+Hola esta es mi tarea local
+aquí estamos en el reporitorio en git de manera remota
