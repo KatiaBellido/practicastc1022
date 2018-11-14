@@ -1,0 +1,173 @@
+commit 23d93038e5d58a1a32802997f4d984cf2afc35b2
+Merge: af88861 4518eff
+Author: KatiaBellido <A01023638@itesm.mx>
+Date:   Wed Nov 7 11:30:56 2018 -0600
+
+    resolví los conflictos
+
+commit af8886189d55dc90586a44d31d1e7cb80231000d
+Author: KatiaBellido <A01023638@itesm.mx>
+Date:   Wed Nov 7 11:26:23 2018 -0600
+
+    actualización local
+
+commit 4518eff384303c996496809d22f9cb7f48b7c4e2
+Author: KatiaBellido <42215148+KatiaBellido@users.noreply.github.com>
+Date:   Wed Nov 7 11:25:51 2018 -0600
+
+    Update tarea10.txt
+    
+    cambiamos en el repositorio de manera remota
+
+commit 4ebb22fe10a1c1d08e30d1133e71bcbfe8d46ae8
+Merge: 30ebad1 d3405db
+Author: KatiaBellido <A01023638@itesm.mx>
+Date:   Wed Nov 7 11:13:52 2018 -0600
+
+    Merge branch 'master' of https://github.com/KatiaBellido/practicastc1022
+    
+    Este merge es para combinae tarea10 local con tarea11 remota
+
+commit d3405db0b95b71863face93785c09385a973b75c
+Author: KatiaBellido <42215148+KatiaBellido@users.noreply.github.com>
+Date:   Wed Nov 7 11:13:12 2018 -0600
+
+    Create tarea11.txt
+    
+    subí mi tarea en el repositorio remoto
+
+commit 30ebad16b69e28af69584c3fac5c8b8d30e96636
+Author: KatiaBellido <A01023638@itesm.mx>
+Date:   Wed Nov 7 11:11:28 2018 -0600
+
+    tarea local
+
+commit 91041871c5413ef179554acc5911dc237a3635ce
+Author: KatiaBellido <42215148+KatiaBellido@users.noreply.github.com>
+Date:   Wed Oct 24 18:17:21 2018 -0500
+
+    Add files via upload
+    
+    numero natural perfecto
+
+commit 4181c0519debccab845dd4a31f0fe16163e399d2
+Author: KatiaBellido <42215148+KatiaBellido@users.noreply.github.com>
+Date:   Wed Oct 24 12:38:14 2018 -0500
+
+    Add files via upload
+    
+    Programa que calcula si un año es bisiesto
+
+commit 0b3ce6337397803ca99b887265dee2162ff52a4d
+Author: KatiaBellido <A01023638@itesm.mx>
+Date:   Wed Oct 24 11:56:46 2018 -0500
+
+    tareas que inician con t
+
+commit 24dd57a2e4b662dbc56fa038f2ffe583c67be1c5
+Author: KatiaBellido <42215148+KatiaBellido@users.noreply.github.com>
+Date:   Wed Oct 24 11:48:07 2018 -0500
+
+    Add files via upload
+    
+    platica Deloitte
+
+commit 8df009842561f8b09d990d5eec21967de3706cb0
+Author: KatiaBellido <42215148+KatiaBellido@users.noreply.github.com>
+Date:   Wed Oct 24 11:47:29 2018 -0500
+
+    Add files via upload
+    
+    CISCO DAY
+
+commit ea48b98e780e15acc5eb4ef356c1c48e44d3c35e
+Author: KatiaBellido <42215148+KatiaBellido@users.noreply.github.com>
+Date:   Wed Oct 24 11:46:49 2018 -0500
+
+    Add files via upload
+    
+    visita de facebook
+
+commit a3a406d605aa11bf16e1ba4624a65340d14453ca
+Author: KatiaBellido <42215148+KatiaBellido@users.noreply.github.com>
+Date:   Wed Oct 24 11:45:44 2018 -0500
+
+    Add files via upload
+    
+    evento microsoft
+
+commit 529f54d64d0fd7a3b2ab775714a51a35937c0717
+Author: KatiaBellido <A01023638@itesm.mx>
+Date:   Wed Oct 24 11:41:14 2018 -0500
+
+    platica drink
+
+commit 38587b7c17469e26c3e28567e745a188d329f447
+Author: KatiaBellido <42215148+KatiaBellido@users.noreply.github.com>
+Date:   Wed Oct 24 11:37:35 2018 -0500
+
+    Add files via upload
+    
+    platica drink iq
+
+commit 37a223b10f1b0ebdebbd01c8d79bddb199091631
+Author: KatiaBellido <42215148+KatiaBellido@users.noreply.github.com>
+Date:   Wed Oct 24 11:37:13 2018 -0500
+
+    Delete T1.1.Platica Drink IQ.docx
+
+commit 913973d1a63adf554fd97625a96c353343c988a6
+Author: KatiaBellido <42215148+KatiaBellido@users.noreply.github.com>
+Date:   Wed Oct 24 11:25:44 2018 -0500
+
+    Delete myPublicKey.gpg
+
+commit d74ceff39518f2ecbff909c42a0e5631e8dcfc5a
+Author: KatiaBellido <42215148+KatiaBellido@users.noreply.github.com>
+Date:   Wed Oct 24 11:24:49 2018 -0500
+
+    Add files via upload
+    
+    llave publica del profe Ariel
+
+commit ab61f91673af2fd42ab3994fbb71f7fadc088e8f
+Author: KatiaBellido <42215148+KatiaBellido@users.noreply.github.com>
+Date:   Wed Oct 24 11:20:26 2018 -0500
+
+    Add files via upload
+    
+    Plática Drink IQ
+
+commit 5eee01676c3a641eea8cbaa538e6f5a270ccaccc
+Author: KatiaBellido <42215148+KatiaBellido@users.noreply.github.com>
+Date:   Wed Oct 24 11:19:54 2018 -0500
+
+    Delete T1.1.plática Drink IQ.docx
+
+commit a09247d63b16346c2418eb4f218b53f89144ce5b
+Author: KatiaBellido <42215148+KatiaBellido@users.noreply.github.com>
+Date:   Wed Oct 24 11:17:19 2018 -0500
+
+    Add files via upload
+    
+    Tarea plática Drink IQ
+
+commit c96d5d0a7da178451bd37b7cd0fc2355c62b32d5
+Author: KatiaBellido <42215148+KatiaBellido@users.noreply.github.com>
+Date:   Wed Oct 24 10:40:16 2018 -0500
+
+    Delete A01023638MiLlavePrivada.gpg
+    
+    se eliminó llave privada
+
+commit 2f62ce492073dff83579723546717ddfe0f04f88
+Author: KatiaBellido <A01023638@itesm.mx>
+Date:   Wed Oct 24 10:31:48 2018 -0500
+
+    exportar llaves publicas y privadas
+
+commit 08584c5bb30714af479a2073713929b0d219d5e0
+Author: KatiaBellido <A01023638@itesm.mx>
+Date:   Wed Oct 10 12:36:08 2018 -0500
+
+    primer commit
